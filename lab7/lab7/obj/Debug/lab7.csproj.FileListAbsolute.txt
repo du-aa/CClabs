@@ -1,0 +1,5 @@
+C:\Users\JIN\source\repos\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\Users\JIN\source\repos\lab7\lab7\obj\Debug\GrammarValidator.Form1.resources
+C:\Users\JIN\source\repos\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\JIN\source\repos\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Users\JIN\source\repos\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
