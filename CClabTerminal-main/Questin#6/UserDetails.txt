@@ -1,0 +1,14 @@
+DDD - Invalid (Username length must be between 5 and 15 and contain only letters, digits, and underscores.)
+
+123 - Invalid (Username must start with a letter. Username length must be between 5 and 15 and contain only letters, digits, and underscores.)
+
+TRUE1 - Valid
+Letters: 4 (Uppercase: 4, Lowercase: 0), Digits: 1, Underscores: 0
+Generated Password: @GOhV3@q6PBB (Strength: Strong)
+
+ - Invalid (Username must start with a letter. Username length must be between 5 and 15 and contain only letters, digits, and underscores.)
+
+Summary:
+- Total Usernames: 4
+- Valid Usernames: 1
+- Invalid Usernames: 3
