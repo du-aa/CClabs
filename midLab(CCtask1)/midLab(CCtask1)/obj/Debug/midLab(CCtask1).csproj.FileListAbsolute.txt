@@ -1,0 +1,10 @@
+C:\Users\JIN\source\repos\midLab(CCtask1)\midLab(CCtask1)\bin\Debug\midLab(CCtask1).exe.config
+C:\Users\JIN\source\repos\midLab(CCtask1)\midLab(CCtask1)\bin\Debug\midLab(CCtask1).exe
+C:\Users\JIN\source\repos\midLab(CCtask1)\midLab(CCtask1)\bin\Debug\midLab(CCtask1).pdb
+C:\Users\JIN\source\repos\midLab(CCtask1)\midLab(CCtask1)\obj\Debug\midLab(CCtask1).csproj.AssemblyReference.cache
+C:\Users\JIN\source\repos\midLab(CCtask1)\midLab(CCtask1)\obj\Debug\midLab_CCtask1_.Form1.resources
+C:\Users\JIN\source\repos\midLab(CCtask1)\midLab(CCtask1)\obj\Debug\midLab_CCtask1_.Properties.Resources.resources
+C:\Users\JIN\source\repos\midLab(CCtask1)\midLab(CCtask1)\obj\Debug\midLab(CCtask1).csproj.GenerateResource.cache
+C:\Users\JIN\source\repos\midLab(CCtask1)\midLab(CCtask1)\obj\Debug\midLab(CCtask1).csproj.CoreCompileInputs.cache
+C:\Users\JIN\source\repos\midLab(CCtask1)\midLab(CCtask1)\obj\Debug\midLab(CCtask1).exe
+C:\Users\JIN\source\repos\midLab(CCtask1)\midLab(CCtask1)\obj\Debug\midLab(CCtask1).pdb

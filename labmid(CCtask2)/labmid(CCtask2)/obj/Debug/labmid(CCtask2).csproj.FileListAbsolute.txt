@@ -1,0 +1,10 @@
+C:\Users\JIN\source\repos\labmid(CCtask2)\labmid(CCtask2)\bin\Debug\labmid(CCtask2).exe.config
+C:\Users\JIN\source\repos\labmid(CCtask2)\labmid(CCtask2)\bin\Debug\labmid(CCtask2).exe
+C:\Users\JIN\source\repos\labmid(CCtask2)\labmid(CCtask2)\bin\Debug\labmid(CCtask2).pdb
+C:\Users\JIN\source\repos\labmid(CCtask2)\labmid(CCtask2)\obj\Debug\labmid(CCtask2).csproj.AssemblyReference.cache
+C:\Users\JIN\source\repos\labmid(CCtask2)\labmid(CCtask2)\obj\Debug\labmid_CCtask2_.Form1.resources
+C:\Users\JIN\source\repos\labmid(CCtask2)\labmid(CCtask2)\obj\Debug\labmid_CCtask2_.Properties.Resources.resources
+C:\Users\JIN\source\repos\labmid(CCtask2)\labmid(CCtask2)\obj\Debug\labmid(CCtask2).csproj.GenerateResource.cache
+C:\Users\JIN\source\repos\labmid(CCtask2)\labmid(CCtask2)\obj\Debug\labmid(CCtask2).csproj.CoreCompileInputs.cache
+C:\Users\JIN\source\repos\labmid(CCtask2)\labmid(CCtask2)\obj\Debug\labmid(CCtask2).exe
+C:\Users\JIN\source\repos\labmid(CCtask2)\labmid(CCtask2)\obj\Debug\labmid(CCtask2).pdb
